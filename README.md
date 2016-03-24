@@ -18,7 +18,7 @@ Have fun building and crashing!
 ## Project Goals ##
 This project has several goals:
 
-1. Iterative improvement of quadcopter hardware using community insights, experience (wisdom of the crowd, as they say...) and **Time** :smile:
+1. Iterative improvement of quadcopter hardware using community insights, experience (wisdom of the crowd, as they say...) and *Time* :smile:
 2. Encouraging standardization of electronics - as was the case with the ubiquitous 35x35 footprint for boards with 30x30 mounting holes, the more popular and common frame designs will get, the more standard form factor equipment will appear.
 3. Experimenting with hardware open source and source control tools - the age of additive manufacturing and homemade CNC is already here, the tools should follow suite.
 3. Have fun!
@@ -26,3 +26,5 @@ This project has several goals:
 ## Frame Design Principles ##
 
 ## Configuration Management of 3D Parts and the Data Repository ##
+GitHub [supports 3D files configuration management](https://help.github.com/articles/3d-file-viewer/), but only for .STL extensions. while not the best format for full assemblies and parts to be manufactured in CNC, it is very suitable for 3D printed parts.
+For our purpose, it can be used as a visual way to track changes and modificatins done by the community, for example:
