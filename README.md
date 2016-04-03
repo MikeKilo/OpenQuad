@@ -25,7 +25,7 @@ This project has several goals:
 
 ## Frame Design Principles ##
 
-![alt tag](https://github.com/MikeKilo/OpenQuad/blob/master/Frame dimensions V2.png)
+![alt tag](https://github.com/MikeKilo/OpenQuad/blob/master/Frame dimensions V3.png)
 ![alt tag](https://github.com/MikeKilo/OpenQuad/blob/master/MK210.46.jpg)
 
 ## Configuration Management of 3D Parts and the Data Repository ##
