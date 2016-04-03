@@ -25,6 +25,9 @@ This project has several goals:
 
 ## Frame Design Principles ##
 
+![alt tag](https://github.com/MikeKilo/OpenQuad/blob/master/Frame dimensions V2.png)
+![alt tag](https://github.com/MikeKilo/OpenQuad/blob/master/MK210.46.jpg)
+
 ## Configuration Management of 3D Parts and the Data Repository ##
 GitHub [supports 3D files configuration management](https://help.github.com/articles/3d-file-viewer/), but only for .STL extensions. while not the best format for full assemblies and parts to be manufactured in CNC, it is very suitable for 3D printed parts.
 For our purpose, it can be used as a visual way to track changes and modificatins done by the community, for example:
